@@ -1,7 +1,7 @@
-*Kristoffer Carlino
-*Dr. Robert Flowers
-*10/18/25
-*Ch07Exercise04.cpp
+* Kristoffer Carlino
+* Dr. Robert Flowers
+* 10/18/25
+* Ch07Exercise04.cpp
 This C++ program prompts the user to enter a line of text, removes all vowels from the input string, and displays the resulting text.
 It demonstrates the use of string manipulation functions, helper functions, and the substr method as required in Chapter 7, Exercise 4.
 
